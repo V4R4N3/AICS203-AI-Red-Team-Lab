@@ -1,0 +1,10 @@
+{
+  "scenario": "tool",
+  "mode": "hardened",
+  "simulated_user_role": "student",
+  "policy_pass": true,
+  "authorized": true,
+  "finding": "none",
+  "result": "Read-only demonstration operation completed.",
+  "disclaimer": "Deterministic offline teaching simulator, not a generative AI model."
+}

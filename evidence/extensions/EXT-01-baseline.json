@@ -1,0 +1,10 @@
+{
+  "scenario": "retrieval",
+  "mode": "baseline",
+  "simulated_user_role": "student",
+  "policy_pass": true,
+  "authorized": true,
+  "finding": "trusted_instruction_preserved",
+  "result": "Evidence review procedure: verify source integrity before approval.",
+  "disclaimer": "Deterministic offline teaching simulator, not a generative AI model."
+}
